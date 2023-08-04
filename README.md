@@ -1,14 +1,14 @@
 # sql_challenge
 This project is divided into three parts:
 
-##1- Data Modeling
+## 1- Data Modeling
 In the data modeling, i inspected 6 CSV files then sketched an Entity Relationship Diagram of the tables.
 ![Alt text](images/ERD.png)
 
-##2- Data Engineering
+## 2- Data Engineering
 I created table schemas for each of the six CSV files, specified primary keys, foreign keys, and other contraints for each table. Finally, i imported each CSV file into its corresponding SQL table.
 
-##3- Data Analysis
+## 3- Data Analysis
 In data analysis, the following was done:
  - A list of the employee number, last name, first name, sex, and salary of each employee.
  - A list of the first name, last name, and hire date for the employees who were hired in 1986.
