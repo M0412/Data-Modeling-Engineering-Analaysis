@@ -1,4 +1,4 @@
-# sql_challenge
+# Data-Modeling-Engineering-Analysis
 This project is divided into three parts:
 
 ## 1- Data Modeling
