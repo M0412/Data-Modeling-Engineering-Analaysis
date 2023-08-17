@@ -6,10 +6,10 @@ In the data modeling, i inspected 6 CSV files then sketched an Entity Relationsh
 ![Alt text](images/ERD.png)
 
 ## 2- Data Engineering
-I created table schemas for each of the six CSV files, specified primary keys, foreign keys, and other contraints for each table. Finally, i imported each CSV file into its corresponding SQL table.
+Using PostgreSql, I created table schemas for each of the six CSV files, specified primary keys, foreign keys, and other contraints for each table. Finally, i imported each CSV file into its corresponding SQL table.
 
 ## 3- Data Analysis
-In data analysis, the following was done:
+In data analysis, the following was done using sql queries:
  - A list of the employee number, last name, first name, sex, and salary of each employee.
  - A list of the first name, last name, and hire date for the employees who were hired in 1986.
  - A list of the manager of each department along with their department number, department name, employee number, last name, and first name.
